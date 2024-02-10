@@ -1,0 +1,142 @@
+[
+  {
+    "listingId": 45152,
+    "title": "Lifestyle, Dating, Romance",
+    "price": 1513050,
+    "status": "New Listing",
+    "thumbnail": "https://images.unsplash.com/photo-1545073255-7d382c4e78ac?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "monthlyNetProfit": 36025,
+    "monthlyRevenue": 37000,
+    "monetization": {
+      "categoryId": 1234,
+      "categoryName": "Display Advertising"
+    },
+    "monthlyMultiple": "42x",
+    "businessCreated": "2016",
+    "description": "This listing is for a display advertising business created in June 2016 in the lifestyle, dating, and romance niches. The WordPress site features topics related to healthy relationships and self-improvement. The authoritative DR68 site has experienced strong traffic behavior despite recent algorithm updates, with growing keyword rankings, and a healthy backlink profile.",
+    "profit": {
+      "duration": 11,
+      "growth": 45
+    },
+    "revenue": {
+      "duration": 12,
+      "growth": 55
+    },
+    "traffic": {
+      "duration": 11,
+      "growth": 55
+    }
+  },
+  {
+    "listingId": 78963,
+    "title": "Tech Gadgets Online Store",
+    "price": 950000,
+    "status": "Featured Listing",
+    "thumbnail": "https://images.unsplash.com/photo-1509198397868-475647b2a1e5?q=80&w=1894&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "monthlyNetProfit": 28500,
+    "monthlyRevenue": 32000,
+    "monetization": {
+      "categoryId": 5678,
+      "categoryName": "E-commerce"
+    },
+    "monthlyMultiple": "33x",
+    "businessCreated": "2017",
+    "description": "This listing is for an online store specializing in tech gadgets. The business was established in July 2017 and offers a wide range of electronic products. It has gained a solid customer base and continues to grow.",
+    "profit": {
+      "duration": 10,
+      "growth": 30
+    },
+    "revenue": {
+      "duration": 10,
+      "growth": 35
+    },
+    "traffic": {
+      "duration": 12,
+      "growth": -40
+    }
+  },
+  {
+    "listingId": 12345,
+    "title": "Travel Blog and Affiliate Site",
+    "price": 45000,
+    "status": "Reduced Price",
+    "thumbnail": "https://images.unsplash.com/photo-1455849318743-b2233052fcff?q=80&w=2069&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "monthlyNetProfit": 1200,
+    "monthlyRevenue": 1500,
+    "monetization": {
+      "categoryId": 7890,
+      "categoryName": "Affiliate Marketing"
+    },
+    "monthlyMultiple": "12x",
+    "businessCreated": "2020",
+    "description": "This listing is for a travel blog and affiliate site created in July 2020. The site features travel stories, tips, and recommendations with affiliate links to travel-related products and services. It's a great opportunity for travel enthusiasts and bloggers.",
+    "profit": {
+      "duration": 9,
+      "growth": 15
+    },
+    "revenue": {
+      "duration": 9,
+      "growth": -18
+    },
+    "traffic": {
+      "duration": 10,
+      "growth": 20
+    }
+  },
+  {
+    "listingId": 56789,
+    "title": "E-commerce, Fashion Store",
+    "price": 2800000,
+    "status": "Featured Listing",
+    "thumbnail": "https://images.unsplash.com/photo-1558769132-cb1aea458c5e?q=80&w=1974&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "monthlyNetProfit": 75000,
+    "monthlyRevenue": 80000,
+    "monetization": {
+      "categoryId": 4321,
+      "categoryName": "Online Sales"
+    },
+    "monthlyMultiple": "36x",
+    "businessCreated": "2017",
+    "description": "This listing is for an e-commerce fashion store established in May 2017. The store offers a wide range of trendy clothing and accessories. With a loyal customer base and strong sales, it's an excellent choice for fashion enthusiasts and entrepreneurs.",
+    "profit": {
+      "duration": 12,
+      "growth": 65
+    },
+    "revenue": {
+      "duration": 12,
+      "growth": 70
+    },
+    "traffic": {
+      "duration": 11,
+      "growth": 60
+    }
+  },
+  {
+    "listingId": 98765,
+    "title": "Health and Wellness Website",
+    "price": 210000,
+    "status": "New Listing",
+    "thumbnail": "https://images.unsplash.com/photo-1515377905703-c4788e51af15?q=80&w=2070&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D",
+    "monthlyNetProfit": 5500,
+    "monthlyRevenue": 6000,
+    "monetization": {
+      "categoryId": 6543,
+      "categoryName": "Advertising and Subscriptions"
+    },
+    "monthlyMultiple": "15x",
+    "businessCreated": "2018",
+    "description": "This listing is for a health and wellness website established in March 2018. The site covers topics related to healthy living, nutrition, and fitness. It has a growing audience and offers potential for expansion in the health and wellness niche.",
+    "profit": {
+      "duration": 11,
+      "growth": 20
+    },
+    "revenue": {
+      "duration": 11,
+      "growth": -25
+    },
+    "traffic": {
+      "duration": 12,
+      "growth": 30
+    }
+  }
+]
